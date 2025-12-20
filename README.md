@@ -1,4 +1,4 @@
-## Hi there 👋
+##  Hi 👋, I'm Manisha Debnath 👋
 <p align="center">
   <img src="./Gemini_Generated_Image_30z2ff30z2ff30z2.png" />
 </p>
