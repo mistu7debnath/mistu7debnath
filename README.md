@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align="center">
+  <img src="./Gemini_Generated_Image_30z2ff30z2ff30z2.png" />
+</p>
 
 <!--
 **mistu7debnath/mistu7debnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
