@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### 👩‍🎓 About Me
 - 🎓 Student at **Adamas University**
-- 💡 Interested in **C, C++ and Python and**
+- 💡 Interested in **C, C++ and Python and Java**
 - 🌱 Currently learning **Data Structures & Algorithms**
 - 📍 West Bengal, India
 
