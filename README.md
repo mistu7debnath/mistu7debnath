@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="" />
+</p>
+
+<h1 align="center">✨ Hi 👋, I'm Manisha Debnath ✨</h1>
+
+<p align="center">
+  🌱 Learner | 💻 Programming Enthusiast | 🚀 Future Software Developer
+</p>
+
+---
+
+### 👩‍🎓 About Me
+- 🎓 Student at **Adamas University**
+- 💡 Interested in **C, C++, Python**
+- 🌱 Currently learning **Data Structures & Algorithms**
+- 📍 West Bengal, India
+
+---
+
+### 🛠️ Skills
+```text
+Languages   : C | C++ | Python  
+Tools       : Git | GitHub  
+CS Basics   : DSA | OOPs
+
