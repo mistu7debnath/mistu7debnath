@@ -39,6 +39,14 @@ Here are some ideas to get you started:
 
 ---
 
+
+**Tools & Platforms**
+- Git
+- GitHub
+- VS Code
+
+
+
 ### 🛠️ Skills
 ```text
 Languages   : C | C++ | Python  
