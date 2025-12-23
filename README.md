@@ -8,6 +8,12 @@
 
 Here are some ideas to get you started:
 
+
+<p align="center">
+  <img src="https://i.imgur.com/8MupZHY.png" width="800"/>
+</p>
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
