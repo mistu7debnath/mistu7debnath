@@ -54,5 +54,5 @@ Tools       : Git | GitHub
 CS Basics   : DSA | OOPs
 
 
-**🙏 Thank you for taking the time to visit my repository.**
+**🙏 Thank you for taking time to visit my repository.**
 
