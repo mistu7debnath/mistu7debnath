@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistuDebnath&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistu7debnath&layout=compact&theme=tokyonight" />
 </p>
 
 
