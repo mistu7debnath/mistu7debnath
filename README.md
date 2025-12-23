@@ -53,8 +53,6 @@ Languages   : C | C++ | Python
 Tools       : Git | GitHub  
 CS Basics   : DSA | OOPs
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
 
 
 **🙏 Thank you for taking time to visit my repository.**
