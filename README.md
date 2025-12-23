@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="" />
-</p>
 
 <h1 align="center">✨ Hi 👋, I'm Manisha Debnath ✨</h1>
 
