@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 ### 👩‍🎓 About Me
 - 🎓 Student at **Adamas University**
-- 💡 Interested in **C, C++ and Python and Java, HTML**
+- 💡 Interested in **C, C++ and Python and Java, HTML,css**
 - 🌱 Currently learning **Data Structures & Algorithms**
 -  💡 Passionate about learning new technologies
 - 📍 West Bengal, India
