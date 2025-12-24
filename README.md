@@ -77,14 +77,6 @@ Here are some ideas to get you started:
 
 
 
-### 🛠️ Skills
-```text
-Languages   : C | C++ | Python  
-Tools       : Git | GitHub  
-CS Basics   : DSA | OOPs
-
-
-
 
 **🙏 Thank you for taking time to visit my repository.**
 
