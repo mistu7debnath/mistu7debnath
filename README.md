@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mistu7debnath&show_icons=true&theme=tokyonight" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=mistu-debnath&show_icons=true&theme=tokyonight" />
 </p>
 
 
