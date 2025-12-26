@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mistu7debnath&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=mistu7debnath&show_icons=true&theme=tokyonight" />
 </p>
 
 
