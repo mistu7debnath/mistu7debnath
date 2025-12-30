@@ -46,13 +46,10 @@ Here are some ideas to get you started:
 
 
 
-## 📊 GitHub Stats
- <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mistu7debnath&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
+
+ ## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mistu7debnath&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 
 
