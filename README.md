@@ -47,11 +47,8 @@ Here are some ideas to get you started:
 
 
 
- ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mistu7debnath&show_icons=true&theme=tokyonight)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mistu7debnath&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 
 
