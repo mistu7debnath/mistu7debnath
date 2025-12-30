@@ -44,17 +44,27 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mistu7debnath&show_icons=true&theme=tokyonight)
-
-
-
-
-
+### 🔥 GitHub Streak
 <p align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=mistu-debnath&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=mistu7debnath&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+### 📊 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mistu7debnath&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Profile Stats
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mistu7debnath&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
 
 
 
