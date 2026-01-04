@@ -1,4 +1,8 @@
 ##  Hi 👋, I'm Manisha Debnath 👋
+<br>
+I’m a passionate student developer interested in software development and problem-solving, with experience in C++, Python, Java, and web technologies.  
+Focused on building real-world projects, strengthening core fundamentals, and continuously growing as a developer.
+
 <p align="center">
   <img src="./Gemini_Generated_Image_30z2ff30z2ff30z2.png" />
 </p>
