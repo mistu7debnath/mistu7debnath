@@ -4,6 +4,8 @@
 Focused on building real-world projects, strengthening core fundamentals, and continuously growing as a developer.**
 
 
+<br/>
+
 
 <p align="center">
   <img src="./Gemini_Generated_Image_30z2ff30z2ff30z2.png" />
