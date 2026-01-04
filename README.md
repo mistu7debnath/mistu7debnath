@@ -77,6 +77,13 @@ Focused on building real-world projects, strengthening core fundamentals, and co
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mistu7debnath&theme=tokyonight&hide_border=true)
 
+### 📊 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+
+
 
 
 
