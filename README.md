@@ -77,11 +77,6 @@ Focused on building real-world projects, strengthening core fundamentals, and co
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mistu7debnath&theme=tokyonight&hide_border=true)
 
-## 🏆 GitHub Profile Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mistu7debnath&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 
 
