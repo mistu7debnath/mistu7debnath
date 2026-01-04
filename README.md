@@ -73,7 +73,7 @@ Focused on building real-world projects, strengthening core fundamentals, and co
 - GitHub
 - VS Code
 
-## 🔥 GitHub Streak
+ ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mistu7debnath&theme=tokyonight&hide_border=true)
 
