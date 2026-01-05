@@ -1,6 +1,20 @@
 <h1 align="center">✨ Hi 👋, I'm Manisha Debnath ✨</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Poppins&
+  size=28&
+  duration=3000&
+  pause=500&
+  color=F78C6C&
+  center=true&
+  vCenter=true&
+  width=600&
+  lines=✨+Hi+👋,+I'm+Manisha+Debnath+✨" />
+</p>
+
+
+<p align="center">
   🌱 Learner | 💻 Programming Enthusiast | 🚀 Future Software Developer
 </p>
 
