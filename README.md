@@ -75,8 +75,7 @@ Focused on building real-world projects, strengthening core fundamentals, and co
 
  ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mistu7debnath&theme=tokyonight&hide_border=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=mistu7debnath&theme=tokyonight)](https://git.io/streak-stats)
 
 
 
