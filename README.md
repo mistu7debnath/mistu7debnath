@@ -78,6 +78,41 @@ Focused on building real-world projects, strengthening core fundamentals, and co
 [![GitHub Streak](https://streak-stats.demolab.com?user=mistu7debnath&theme=tokyonight)](https://git.io/streak-stats)
 
 
+## ⚡ Skill Matrix — Always Leveling Up
+
+### 🔥 XP Progress
+
+**Web Development**  
+<div style="background:#eee;border-radius:10px;width:70%">
+  <div style="background:#4CAF50;padding:6px 0;border-radius:10px;width:65%"></div>
+</div>
+LVL 13
+
+**Python**  
+<div style="background:#eee;border-radius:10px;width:70%">
+  <div style="background:#2196F3;padding:6px 0;border-radius:10px;width:60%"></div>
+</div>
+LVL 12
+
+**Java**  
+<div style="background:#eee;border-radius:10px;width:70%">
+  <div style="background:#FF9800;padding:6px 0;border-radius:10px;width:50%"></div>
+</div>
+LVL 10
+
+**Problem Solving**  
+<div style="background:#eee;border-radius:10px;width:70%">
+  <div style="background:#E91E63;padding:6px 0;border-radius:10px;width:70%"></div>
+</div>
+LVL 14
+
+**AI**  
+<div style="background:#eee;border-radius:10px;width:70%">
+  <div style="background:#03A9F4;padding:6px 0;border-radius:10px;width:45%"></div>
+</div>
+LVL 9
+
+🧠 *Every commit adds experience to this skill tree — just like an RPG character.*
 
 
 
