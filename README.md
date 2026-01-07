@@ -82,6 +82,20 @@ Focused on building real-world projects, strengthening core fundamentals, and co
 
 ---
 
+## 🧠 My GitHub Overview
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/mistu7debnath?template=classic&isocalendar=1&languages=1&activity=1&base.indepth=true&theme=dark" />
+</p>
+
+## 🔥 My Active Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mistu7debnath&theme=react-dark&hide_border=true" />
+</p>
+
+
+
 <p align="center">
   🙏 <b>Thank you for taking the time to visit my repository!</b><br/>
   ⭐ If you like my work, consider starring my projects
