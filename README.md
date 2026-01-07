@@ -70,19 +70,6 @@ Focused on building real-world projects, strengthening core fundamentals, and co
 
 ---
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mistu7debnath&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
----
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mistu7debnath&theme=tokyonight" />
-</p>
----
 
 
 **Tools & Platforms**
