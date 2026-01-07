@@ -37,8 +37,6 @@ Focused on building real-world projects, strengthening core fundamentals, and co
 
 
 
-<h1 align="center">✨ Hi 👋, I'm Manisha Debnath ✨</h1>
-
 <p align="center">
   🌱 Learner | 💻 Programming Enthusiast | 🚀 Future Software Developer
 </p>
