@@ -56,9 +56,6 @@ Focused on building real-world projects, strengthening core fundamentals, and co
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-## 💻 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mistu7debnath&layout=compact)
 
 
 
@@ -72,11 +69,7 @@ Focused on building real-world projects, strengthening core fundamentals, and co
 - 📍 West Bengal, India
 
 ---
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mistu7debnath&show_icons=true&theme=tokyonight)
-https://streak-stats.demolab.com?user=mistu7debnath&theme=tokyonight" />
-</p>
 
 
 
