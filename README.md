@@ -74,38 +74,31 @@ Focused on building real-world projects, strengthening core fundamentals, and co
 - GitHub
 - VS Code
 
- ## 📈 GitHub Stats & Activity
+## 📈 GitHub Stats & Activity
 
 ### 🔥 GitHub Streak
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=mistu7debnath&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="GitHub Streak"
-  />
-</p>
+- Current Streak: **73 days**
+- Longest Streak: **73 days**
+- Active Since: **September 2023**
 
 ---
 
 ### 📊 Top Languages
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistu7debnath&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="Top Languages"
-  />
-</p>
+- HTML – 34%
+- CSS – 23%
+- TypeScript – 18%
+- Python – 13%
+- JavaScript – 12%
 
 ---
 
 ### 🏆 GitHub Profile Stats
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mistu7debnath&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="GitHub Stats"
-  />
-</p>
+- ⭐ Total Stars: **6**
+- 🔁 Total Commits (2026): **463**
+- 🔀 Total PRs: **11**
+- 🏅 Contribution Grade: **A+**
 
 ---
 
 🙏 **Thank you for taking time to visit my repository.**
-
 
