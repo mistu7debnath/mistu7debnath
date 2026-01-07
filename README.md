@@ -37,9 +37,7 @@ Focused on building real-world projects, strengthening core fundamentals, and co
 
 
 
-<p align="center">
-  🌱 Learner | 💻 Programming Enthusiast | 🚀 Future Software Developer
-</p>
+
 
 ## 🛠 Tech Stack
 
