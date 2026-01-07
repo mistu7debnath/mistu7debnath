@@ -74,10 +74,21 @@ Focused on building real-world projects, strengthening core fundamentals, and co
 - GitHub
 - VS Code
 
-<h2 align="center">🔥 GitHub Streak</h2>
+## 📈 GitHub Stats & Activity
 
+<h2 align="center">🔥 GitHub Streak</h2>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mistu7debnath&theme=tokyonight&hide_border=true" />
+</p>
+
+<h2 align="center">📊 Top Languages</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistu7debnath&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<h2 align="center">🏆 GitHub Profile Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mistu7debnath&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 
