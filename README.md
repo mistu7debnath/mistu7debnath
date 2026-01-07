@@ -4,9 +4,6 @@
   , I'm Manisha Debnath ✨
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120" />
-</p>
 
 
 <p align="center">
