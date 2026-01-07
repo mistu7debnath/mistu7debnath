@@ -70,6 +70,13 @@ Focused on building real-world projects, strengthening core fundamentals, and co
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mistu7debnath&show_icons=true&theme=tokyonight" />
+</p>
+---
+
 
 **Tools & Platforms**
 - Git
