@@ -90,6 +90,12 @@ Focused on building real-world projects, strengthening core fundamentals, and co
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mistu7debnath&theme=react-dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=mistu7debnath&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 
 <p align="center">
