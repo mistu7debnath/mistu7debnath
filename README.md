@@ -69,6 +69,13 @@ Focused on building real-world projects, strengthening core fundamentals, and co
 - 📍 West Bengal, India
 
 ---
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mistu7debnath&show_icons=true&theme=tokyonight" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=mistu7debnath&theme=tokyonight" />
+</p>
 
 
 
