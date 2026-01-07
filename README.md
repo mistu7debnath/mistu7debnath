@@ -82,11 +82,7 @@ Focused on building real-world projects, strengthening core fundamentals, and co
 
 ---
 
-## 🧠 My GitHub Overview
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/mistu7debnath?template=classic&isocalendar=1&languages=1&activity=1&base.indepth=true&theme=dark" />
-</p>
 
 ## 🔥 My Active Contribution Graph
 
