@@ -74,29 +74,7 @@ Focused on building real-world projects, strengthening core fundamentals, and co
 - GitHub
 - VS Code
 
-## 📈 GitHub Stats & Activity
 
-### 🔥 GitHub Streak
-- Current Streak: **73 days**
-- Longest Streak: **73 days**
-- Active Since: **September 2023**
-
----
-
-### 📊 Top Languages
-- HTML – 34%
-- CSS – 23%
-- TypeScript – 18%
-- Python – 13%
-- JavaScript – 12%
-
----
-
-### 🏆 GitHub Profile Stats
-- ⭐ Total Stars: **6**
-- 🔁 Total Commits (2026): **463**
-- 🔀 Total PRs: **11**
-- 🏅 Contribution Grade: **A+**
 
 ---
 
