@@ -12,8 +12,11 @@
 <br/>
 
 <p align="center">
-  <img src="./Gemini_Generated_Image_30z2ff30z2ff30z2.png" alt="Coding illustration" />
+  <img src="./Gemini_Generated_Image_30z2ff30z2ff30z2.png" 
+       alt="Coding illustration" 
+       width="500" />
 </p>
+
 
 <br/>
 
