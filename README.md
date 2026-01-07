@@ -87,9 +87,12 @@ Focused on building real-world projects, strengthening core fundamentals, and co
 ## 🔥 My Active Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mistu7debnath&theme=react-dark&hide_border=true" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mistu7debnath&theme=react-dark&hide_border=true"
+    alt="Contribution Graph"
+  />
 </p>
-
+---
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=mistu7debnath&theme=tokyonight&hide_border=true"
