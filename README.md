@@ -3,6 +3,9 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" />
   , I'm Manisha Debnath ✨
 </h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120" />
+</p>
 
 
 <p align="center">
