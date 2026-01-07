@@ -83,15 +83,15 @@ Focused on building real-world projects, strengthening core fundamentals, and co
 ---
 
 
-
-## 🔥 My Active Contribution Graph
+## ✨ My Active Contribution Graph
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mistu7debnath&bg_color=transparent&color=ff69b4&line=ff69b4&point=ffd1dc&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mistu7debnath&bg_color=transparent&color=FFD700&line=FFD700&point=FFF2A6&hide_border=true"
     alt="Contribution Graph"
   />
 </p>
+
 
 
 
