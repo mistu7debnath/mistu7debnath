@@ -1,0 +1,64 @@
+<svg width="520" height="240" viewBox="0 0 520 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradient -->
+    <linearGradient id="pinkGold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff69b4"/>
+      <stop offset="100%" stop-color="#ffd700"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .bg {
+      fill: #0d1117;
+    }
+    .title {
+      fill: #ffb6c1;
+      font-size: 22px;
+      font-weight: 700;
+      font-family: 'Segoe UI', sans-serif;
+    }
+    .label {
+      fill: #f5d0dc;
+      font-size: 14px;
+      font-family: 'Segoe UI', sans-serif;
+    }
+    .bar {
+      fill: url(#pinkGold);
+      filter: url(#glow);
+    }
+  </style>
+
+  <!-- Background -->
+  <rect class="bg" width="520" height="240" rx="20"/>
+
+  <!-- Title -->
+  <text x="260" y="36" text-anchor="middle" class="title">
+    Most Used Languages
+  </text>
+
+  <!-- Bars -->
+  <rect x="50" y="65" width="180" height="16" rx="8" class="bar"/>
+  <text x="250" y="78" class="label">HTML — 34%</text>
+
+  <rect x="50" y="95" width="130" height="16" rx="8" class="bar"/>
+  <text x="250" y="108" class="label">CSS — 23%</text>
+
+  <rect x="50" y="125" width="105" height="16" rx="8" class="bar"/>
+  <text x="250" y="138" class="label">TypeScript — 18%</text>
+
+  <rect x="50" y="155" width="80" height="16" rx="8" class="bar"/>
+  <text x="250" y="168" class="label">Python — 13%</text>
+
+  <rect x="50" y="185" width="70" height="16" rx="8" class="bar"/>
+  <text x="250" y="198" class="label">JavaScript — 12%</text>
+
+</svg>
