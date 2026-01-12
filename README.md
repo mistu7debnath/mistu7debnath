@@ -98,6 +98,6 @@ Focused on building real-world projects, strengthening core fundamentals, and co
 
 
 <p align="center">
-  🙏 <b>Thank you for taking the time to visit my repository!</b><br/>
+      🙏 <b>Thank you for taking the time to visit my repository!</b><br/>
   ⭐ If you like my work, consider starring my projects.
 </p>
