@@ -31,7 +31,7 @@ Focused on building real-world projects, strengthening core fundamentals and con
 - 🔭 I’m currently working on DSA and mini projects  
 - 🌱 I’m currently learning Java & Data Structures  
 - 👯 I’m looking to collaborate on beginner-friendly projects  
-- 💬 Ask me about C, C++, Python, or Git  
+- 💬 Ask me about C, C++, Python, Java or Git  
 - 📫 How to reach me: GitHub / LinkedIn  
 - ⚡ Fun fact: I enjoy debugging more than coding 😄
 
