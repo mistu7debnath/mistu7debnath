@@ -45,7 +45,7 @@ Focused on building real-world projects, strengthening core fundamentals and con
 
 
 
-### 👨‍💻 Languages
+### 👨‍💻 Languages:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
