@@ -90,7 +90,7 @@ Focused on building real-world projects, strengthening core fundamentals and con
 ---
 
 
-## ✨ My Active Contribution Graph
+## ✨ My Active Contribution Graph:
 
 <p align="center">
   <img 
