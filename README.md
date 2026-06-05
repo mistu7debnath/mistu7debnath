@@ -80,7 +80,7 @@ Focused on building real-world projects, strengthening core fundamentals and con
 
 
 
-**Tools & Platforms**
+**Tools & Platforms**:
 - Git
 - GitHub
 - VS Code
