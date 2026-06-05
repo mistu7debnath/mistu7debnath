@@ -69,7 +69,7 @@ Focused on building real-world projects, strengthening core fundamentals and con
 
 ---
 
- ### 👩‍🎓 About Me
+ ### 👩‍🎓 About Myself
 - 🎓 Student at **Adamas University**
 - 💡 Interested in **C, C++ and Python and Java, HTML,CSS and Javascript**
 - 🌱 Currently learning **Data Structures and Algorithms**
