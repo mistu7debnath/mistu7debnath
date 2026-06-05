@@ -30,7 +30,7 @@ Focused on building real-world projects, strengthening core fundamentals and con
 
 - 🔭 I’m currently working on DSA and mini projects  
 - 🌱 I’m currently learning Java & Data Structures  
-- 👯 I’m looking to collaborate on beginner-friendly projects  
+- 👯 I’m looking to collaborate on beginner and Intermidiate-friendly projects  
 - 💬 Ask me about C, C++, Python and Java or Git  
 - 📫 How to reach me: GitHub / LinkedIn  
 - ⚡ Fun fact: I enjoy debugging more than coding 😄
@@ -39,7 +39,7 @@ Focused on building real-world projects, strengthening core fundamentals and con
 
 
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack:
 
 
 
@@ -58,7 +58,7 @@ Focused on building real-world projects, strengthening core fundamentals and con
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 
 
-### 🧰 Tools & Platforms
+### 🧰 Tools & Platforms:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
