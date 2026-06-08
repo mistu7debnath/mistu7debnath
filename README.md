@@ -97,11 +97,6 @@ Focused on building real-world projects, strengthening core fundamentals and con
 </p>
 
 
-# Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mistu7debnath&label=✨%20Profile%20Visitors%20✨&color=FFD700&style=for-the-badge" />
-</p>
-
 
 
 
