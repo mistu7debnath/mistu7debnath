@@ -113,6 +113,12 @@ Focused on building real-world projects, strengthening core fundamentals and con
 
 ---
 
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistu7debnath&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ## ✨ My Active Contribution Graph:
 
 <p align="center">
