@@ -104,6 +104,15 @@ Focused on building real-world projects, strengthening core fundamentals and con
 </p>
 ---
 
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mistu7debnath&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
+
+
+
 ## ✨ My Active Contribution Graph:
 
 <p align="center">
