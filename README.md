@@ -88,7 +88,11 @@ Focused on building real-world projects, strengthening core fundamentals and con
 
 
 ---
+## 🏆 GitHub Achievements
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mistu7debnath&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ## ✨ My Active Contribution Graph:
 
