@@ -96,6 +96,14 @@ Focused on building real-world projects, strengthening core fundamentals and con
 
 ---
 
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mistu7debnath&theme=tokyonight&hide_border=true" />
+</p>
+---
+
 ## ✨ My Active Contribution Graph:
 
 <p align="center">
