@@ -113,12 +113,7 @@ Focused on building real-world projects, strengthening core fundamentals and con
 
 ---
 
-## 📈 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mistu7debnath&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistu7debnath&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ## ✨ My Active Contribution Graph:
 
