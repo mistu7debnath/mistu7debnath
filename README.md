@@ -88,10 +88,10 @@ Focused on building real-world projects, strengthening core fundamentals and con
 
 
 ---
-## 🏆 GitHub Achievements
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mistu7debnath&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mistu7debnath&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
