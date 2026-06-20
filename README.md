@@ -31,9 +31,9 @@ Focused on building real-world projects, strengthening core fundamentals and con
 - 🔭 I’m currently working on DSA, mini projects and in NLP based project also
 - 🌱 I’m currently learning Java & Data Structures  
 - 👯 I’m looking to collaborate on beginner and Intermidiate-friendly projects  
-- 💬 Ask me about C, C++, Python and Java or Git  
+- 💬 Ask me about C, C++, Python and Java or Git 
 - 📫 How to reach me: GitHub / LinkedIn  
-- ⚡ Fun fact: I enjoy debugging more than coding 😄
+- ⚡ Fun fact: I enjoy debugging more than the coding 😄
 
 
 
