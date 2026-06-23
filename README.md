@@ -70,7 +70,7 @@ Focused on building real-world projects, strengthening core fundamentals and con
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-
+![Llama 3](https://img.shields.io/badge/Llama_3-8A2BE2?style=for-the-badge)
 
 
 ---
