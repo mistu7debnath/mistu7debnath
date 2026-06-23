@@ -75,7 +75,7 @@ Focused on building real-world projects, strengthening core fundamentals and con
 
  ### 👩‍🎓 About Myself:
 - 🎓 Student at **Adamas University**
-- 💡 Interested in **C, C++ and Python and Java, HTML,CSS and Javascript, React and Vite**
+- 💡 Interested in **C, C++ and Python and Java, HTML,CSS and Javascript, React and Vite, Tailwind CSS**
 - 🌱 Currently learning **Data Structures and Algorithms**
 -  💡 Passionate about learning new technologies and tools
 - 📍 West Bengal, India
