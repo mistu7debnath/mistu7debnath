@@ -102,9 +102,9 @@
 
 
 
-## ✨ My Active Contribution Graph:
 
-<img src="https://raw.githubusercontent.com/mistu7debnath/mistu7debnath/output/github-contribution-grid-snake.svg" />
+## ✨ My Active Contribution Graph:
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=mistu7debnath&bg_color=transparent&color=E6C200&line=E6C200&point=FFF1B8&hide_border=true" alt="Contribution Graph" /> </p>
 
 
 ## 🐍 Contribution Snake
