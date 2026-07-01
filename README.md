@@ -21,9 +21,7 @@
 
 <br/>
 
-**I’m a passionate B.tech CSE student developer from Adamas University who interested in software development and problem-solving with experience in C, C++, Python, Java, and web technologies.  
-Focused on building real-world projects, strengthening core fundamentals and continuously growing up as a developer.**
-
+**✅ "I'm a passionate B.Tech CSE student at Adamas University with a strong interest in software development, web technologies, and problem-solving."**
 ---
 
 
