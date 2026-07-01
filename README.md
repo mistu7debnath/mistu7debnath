@@ -115,6 +115,11 @@ Focused on building real-world projects, strengthening core fundamentals and con
 
 
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mistu7debnath/mistu7debnath/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 
 
