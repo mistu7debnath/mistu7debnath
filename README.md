@@ -26,7 +26,7 @@
 
 
 
-- 🔭 I’m currently working on DSA, DAA mini projects and in NLP based project also
+- 🔭 I’m currently working on DSA, DAA mini projects , Machine Learning and in NLP based project also
 - 🌱 I’m currently learning Java & Data Structures  
 - 👯 I’m looking to collaborate on beginner and Intermidiate-friendly projects  
 - 💬 Ask me about C, C++, Python and Java or Git 
