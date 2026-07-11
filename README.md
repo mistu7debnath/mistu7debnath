@@ -73,7 +73,7 @@
 
  ### 👩‍🎓 About Myself:
 - 🎓 Student at **Adamas University**
-- 💡 Interested in **C, C++ and Python and Java, HTML,CSS and Javascript, React and Vite, Tailwind CSS**
+- 💡 Interested in **C, C++ and Python and Java, HTML,CSS and Javascript, React and Vite, Tailwind CSS and**
 - 🌱 Currently learning **Data Structures and Algorithms**
 -  💡 Passionate about learning new technologies and tools
 - 📍 West Bengal, India
