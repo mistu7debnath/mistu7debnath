@@ -31,7 +31,7 @@
 - 👯 I’m looking to collaborate on beginner and Intermidiate-friendly projects  
 - 💬 Ask me about C, C++, Python and Java or Git 
 - 📫 How to reach me: GitHub / LinkedIn  
-- ⚡ Fun fact: I enjoy debugging more than the coding 😄
+- ⚡ Fun fact: I enjoy debugging more than  coding 😄
 
 
 
