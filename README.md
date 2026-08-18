@@ -103,7 +103,6 @@
 
 
 
-<img src="https://YOUR-VERCEL-APP.vercel.app/graph?username=mistu7debnath" />
 
 
 
