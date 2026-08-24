@@ -73,7 +73,7 @@
 ---
 
  ### 👩‍🎓 About Myself:
-- 🎓 i  Student at **Adamas University**
+- 🎓 I am  Student at **Adamas University**
 - 💡 Interested in **C, C++ and Python and Java, HTML,CSS and Javascript, React and Vite, Tailwind CSS and Prompt Engineering**
 - 🌱 Currently learning **Data Structures and Algorithms**
 -  💡 Passionate about learning new technologies and tools
