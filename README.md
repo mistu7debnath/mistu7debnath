@@ -1,5 +1,5 @@
 <h1 align="center">
-  ✨ Hello
+   Hello
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" />
   Myself Manisha Debnath 
 </h1>
