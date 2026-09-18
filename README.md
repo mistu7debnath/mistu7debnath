@@ -30,7 +30,7 @@
 - 🌱 I’m currently learning Java , Data Structures and Sql
 - 👯 I’m looking to collaborate on Intermidiate-friendly and advanced level projects  
 - 💬 Ask me about C, C++, Python and Java or Git 
-- 📫 How to reach me: GitHub or LinkedIn  
+- 📫 How to reach me: GitHub or by LinkedIn  
 - ⚡ Fun fact: I enjoy debugging more than  coding 😄
 
 
