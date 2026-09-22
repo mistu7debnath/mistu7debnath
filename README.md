@@ -29,7 +29,7 @@
 - 🔭 I’m currently working on the  DSA, DAA minor projects , Machine Learning and in NLP based project also
 - 🌱 I’m currently learning Java , Data Structures and Sql
 - 👯 I’m looking to collaborate on Intermidiate-friendly and advanced level projects  
-- 💬 Ask me about C, C++, Python and Java or Git 
+- 💬 Ask me about C, C++, Python, web technologies and Java or Git 
 - 📫 How to reach me: GitHub or by LinkedIn  
 - ⚡ Fun fact: I enjoy debugging more than  coding 😄
 
