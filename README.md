@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  🌱  A Learner | 💻 A Programming Enthusiast |🚀 Future Software Developer
+  🌱  A Learner | 💻 Programming Enthusiast |🚀 Future Software Developer
 </p>
 
 <br/>
