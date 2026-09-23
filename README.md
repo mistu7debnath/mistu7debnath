@@ -21,7 +21,7 @@
 
 <br/>
 
-**✅ "I'm a passionate B.Tech CSE 4th student from Adamas University with a strong interest in software development, web technologies, and problem-solving."**
+**✅ "I'm a passionate B.Tech CSE 4th  student from Adamas University with a strong interest in software development, web technologies, and problem-solving."**
 ---
 
 
